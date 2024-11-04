@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lindolfo!
 
-Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Norte. Amo resolver problemas e estou focado em me tornar um desenvolvedor Backend completo.
+Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Norte. Amo resolver problemas e estou focado em me tornar um Desenvolvedor Backend completo.
 
 ## 💻 Tecnologias que trabalho
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongodb,docker,aws,go&theme=light)](https://skillicons.dev)
