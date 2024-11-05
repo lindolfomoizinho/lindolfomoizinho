@@ -7,7 +7,7 @@ Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Nor
 
 ## 🚀 Projetos
 
-Aqui estão alguns projetos dos quais desenvolvi:
+Em andamento ... 
 
 ## 🌟 Habilidades
 
