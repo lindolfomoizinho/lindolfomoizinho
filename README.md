@@ -3,7 +3,7 @@
 Sou estudante de Redes de Computadores no Instituto Federal do Rio Grande do Norte. Amo resolver problemas e estou focado em me tornar um Desenvolvedor Backend completo.
 
 ## 💻 Tecnologias que trabalho
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,mongodb,docker,aws,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,mysql,postgres,mongodb,docker,aws,go,python&theme=light)](https://skillicons.dev)
 
 ## 🚀 Projetos
 
